@@ -1,0 +1,6 @@
+[Match]
+MACAddress={mac}
+
+[Link]
+Description={desc}
+Name={dest}

@@ -1,0 +1,10 @@
+[Match]
+Name={iface}
+
+[Network]
+DHCP=yes
+
+[Route]
+Gateway=_dhcp4
+InitialCongestionWindow=30
+InitialAdvertisedReceiveWindow=30

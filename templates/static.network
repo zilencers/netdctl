@@ -1,0 +1,12 @@
+[Match]
+Name={iface}
+
+[Network]
+Address={addr}
+DHCPServer={dhcpsrv}
+DNS={dns}
+
+[Route]
+InitialCongestionWindow=30
+InitialAdvertisedReceiveWindow=30
+Gateway={gw}

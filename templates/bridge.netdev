@@ -1,0 +1,7 @@
+[NetDev]
+Name={iface}
+Kind=bridge
+
+[Bridge]
+VLANFiltering=true
+STP=false

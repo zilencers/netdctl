@@ -1,0 +1,6 @@
+[DHCPServer]
+PoolOffset={offset}
+PoolSize={psize}
+DefaultLeaseTimeSec=21600
+EmitDNS=yes
+DNS={dns}

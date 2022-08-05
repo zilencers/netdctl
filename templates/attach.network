@@ -1,0 +1,14 @@
+[Match]
+Name={iface}
+
+[Network]
+VLAN={name0}
+VLAN={name1}
+VLAN={name2}
+VLAN={name3}
+VLAN={name4}
+VLAN={name5}
+VLAN={name6}
+VLAN={name7}
+VLAN={name8}
+VLAN={name9}
